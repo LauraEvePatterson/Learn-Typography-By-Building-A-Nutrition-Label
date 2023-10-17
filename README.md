@@ -1,5 +1,8 @@
 # Learning Typography by Building a Nutrition Label on FreeCodeCamp
-[Learn Typography By Building A Nutrition Label](https://lauraevepatterson.github.io/Learn-Typography-By-Building-A-Nutrition-Label/)
+
+## Live Demo
+
+You can access the live demo of this project [here](https://lauraevepatterson.github.io/Learn-Typography-By-Building-A-Nutrition-Label/).
 
 !["Nutrition label with the following information: 8 servings per container, serving size 2/3 cup (55g), 230 calories per serving. % Daily Value for Total Fat 10%, Saturated Fat 5%, Trans Fat 0%, Cholesterol 0%, Sodium 7%, Total Carbohydrate 13%, Dietary Fiber 4g, Total Sugars 12g, Includes 10g Added Sugars 20%, Protein 3g, Vitamin D 10%, Calcium 20%, Iron 45%, Potassium 6%. Note: The % Daily Value (DV) indicates how much a nutrient in a serving of food contributes to a daily diet. The daily diet is based on 2,000 calories."](nutrition-label.png)
 
@@ -8,6 +11,7 @@ Welcome to the "Learning Typography by Building a Nutrition Label" tutorial on F
 ## Table of Contents
 
 - [Learning Typography by Building a Nutrition Label on FreeCodeCamp](#learning-typography-by-building-a-nutrition-label-on-freecodecamp)
+  - [Live Demo](#live-demo)
   - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
   - [Prerequisites](#prerequisites)
